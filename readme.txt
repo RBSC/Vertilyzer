@@ -1,5 +1,5 @@
 --------------------------------------------------------------------------------
-Vertilyzer Adapter Set
+Vertilyzer Adapter Set for MSX computers with front/side slots
 Copyright (c) 2024 by RBSC
 --------------------------------------------------------------------------------
 
@@ -27,9 +27,9 @@ The Model B is suitable for:
  - Daewoo CPC 400 and 400S
  - Sony F500, F700 and F900
 
-The Model B adapter comes with the special bracket to activate the power switch on Sony MSX computers. Both adapters
-come in 2-color 3D-printed cases. The cases have screw holes, but they are designed to be closed firmly without screws.
-The circuit board may a bit wobble inside the case - this is done on purpose, to allow stressless inserting of the
+The Model B adapter is supplied with the special bracket to activate the power switch on Sony MSX computers. Both adapters
+are designed in 2-color 3D-printed cases. The cases have screw holes, but they are designed to be closed firmly without
+screws. The circuit board may a bit wobble inside the case - this is done on purpose, to allow stressless inserting of the
 adapter into the cartridge slot.
 
 Each board must have a "key" to ensure that cartridges are inserted correctly. It is recommended to use male brass hex
@@ -47,6 +47,10 @@ The example of such slots: https://www.aliexpress.com/item/4000490392119.html
 
 In order to insert the adapter properly, please push it into the slot using both thumbs placed on the "PUSH" tiles. Make
 sure that the adapter is properly inserted before powering up a computer.
+
+The Vertilyzer is available in the RBSC's repository:
+
+https://github.com/RBSC/Vertilyzer
 
 
 IMPORTANT!
